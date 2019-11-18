@@ -1,0 +1,1627 @@
+{"nodes": [
+  {
+    "name": "Kacang Panjang",
+    "n": 2,
+    "grp": 1,
+    "id": "Kacang Panjang"
+  },
+  {
+    "name": "Kembang Kol",
+    "n": 2,
+    "grp": 1,
+    "id": "Kembang Kol"
+  },
+  {
+    "name": "Tomat",
+    "n": 3,
+    "grp": 1,
+    "id": "Tomat"
+  },
+  {
+    "name": "Brokoli",
+    "n": 2,
+    "grp": 1,
+    "id": "Brokoli"
+  },
+  {
+    "name": "Jamur",
+    "n": 3,
+    "grp": 1,
+    "id": "Jamur"
+  },
+  {
+    "name": "Wortel",
+    "n": 3,
+    "grp": 1,
+    "id": "Wortel"
+  },
+  {
+    "name": "Sawi Putih",
+    "n": 2,
+    "grp": 1,
+    "id": "Sawi Putih"
+  },
+  {
+    "name": "Caisim",
+    "n": 1,
+    "grp": 1,
+    "id": "Caisim"
+  },
+  {
+    "name": "Terong",
+    "n": 1,
+    "grp": 1,
+    "id": "Terong"
+  },
+  {
+    "name": "Bayam",
+    "n": 1,
+    "grp": 1,
+    "id": "Bayam"
+  },
+  {
+    "name": "Buncis",
+    "n": 2,
+    "grp": 1,
+    "id": "Buncis"
+  },
+  {
+    "name": "Tauge",
+    "n": 3,
+    "grp": 1,
+    "id": "Tauge"
+  },
+  {
+    "name": "Kol",
+    "n": 2,
+    "grp": 1,
+    "id": "Kol"
+  },
+  {
+    "name": "Pakcoy",
+    "n": 1,
+    "grp": 1,
+    "id": "Pakcoy"
+  },
+  {
+    "name": "Royco",
+    "n": 92,
+    "grp": 2,
+    "id": "Royco"
+  },
+  {
+    "name": "Paprika",
+    "n": 3,
+    "grp": 2,
+    "id": "Paprika"
+  },
+  {
+    "name": "Kayu Manis",
+    "n": 2,
+    "grp": 2,
+    "id": "Kayu Manis"
+  },
+  {
+    "name": "Kencur",
+    "n": 1,
+    "grp": 2,
+    "id": "Kencur"
+  },
+  {
+    "name": "Cengkeh",
+    "n": 2,
+    "grp": 2,
+    "id": "Cengkeh"
+  },
+  {
+    "name": "Bawang Putih",
+    "n": 3,
+    "grp": 2,
+    "id": "Bawang Putih"
+  },
+  {
+    "name": "Garam",
+    "n": 3,
+    "grp": 2,
+    "id": "Garam"
+  },
+  {
+    "name": "Gula",
+    "n": 3,
+    "grp": 2,
+    "id": "Gula"
+  },
+  {
+    "name": "Lemon",
+    "n": 3,
+    "grp": 2,
+    "id": "Lemon"
+  },
+  {
+    "name": "Merica",
+    "n": 3,
+    "grp": 2,
+    "id": "Merica"
+  },
+  {
+    "name": "Cabe Rawit",
+    "n": 3,
+    "grp": 2,
+    "id": "Cabe Rawit"
+  },
+  {
+    "name": "Lengkuas",
+    "n": 2,
+    "grp": 2,
+    "id": "Lengkuas"
+  },
+  {
+    "name": "Ketumbar",
+    "n": 3,
+    "grp": 2,
+    "id": "Ketumbar"
+  },
+  {
+    "name": "Cabe Merah",
+    "n": 3,
+    "grp": 2,
+    "id": "Cabe Merah"
+  },
+  {
+    "name": "Kemiri",
+    "n": 3,
+    "grp": 2,
+    "id": "Kemiri"
+  },
+  {
+    "name": "Bawang Merah",
+    "n": 3,
+    "grp": 2,
+    "id": "Bawang Merah"
+  },
+  {
+    "name": "Pala",
+    "n": 3,
+    "grp": 2,
+    "id": "Pala"
+  },
+  {
+    "name": "Jahe",
+    "n": 3,
+    "grp": 2,
+    "id": "Jahe"
+  },
+  {
+    "name": "Terasi",
+    "n": 2,
+    "grp": 2,
+    "id": "Terasi"
+  },
+  {
+    "name": "Gula Jawa",
+    "n": 2,
+    "grp": 2,
+    "id": "Gula Jawa"
+  },
+  {
+    "name": "Jintan",
+    "n": 2,
+    "grp": 2,
+    "id": "Jintan"
+  },
+  {
+    "name": "Kunyit",
+    "n": 2,
+    "grp": 2,
+    "id": "Kunyit"
+  },
+  {
+    "name": "Andaliman",
+    "n": 1,
+    "grp": 2,
+    "id": "Andaliman"
+  },
+  {
+    "name": "Jeruk Nipis",
+    "n": 3,
+    "grp": 2,
+    "id": "Jeruk Nipis"
+  },
+  {
+    "name": "Bawang Bombai",
+    "n": 3,
+    "grp": 2,
+    "id": "Bawang Bombai"
+  },
+  {
+    "name": "Lada",
+    "n": 3,
+    "grp": 2,
+    "id": "Lada"
+  },
+  {
+    "name": "Gula Merah",
+    "n": 2,
+    "grp": 2,
+    "id": "Gula Merah"
+  },
+  {
+    "name": "Bawang Goreng",
+    "n": 3,
+    "grp": 2,
+    "id": "Bawang Goreng"
+  },
+  {
+    "name": "Cabe",
+    "n": 3,
+    "grp": 2,
+    "id": "Cabe"
+  },
+  {
+    "name": "Kari",
+    "n": 3,
+    "grp": 2,
+    "id": "Kari"
+  },
+  {
+    "name": "Saus Tiram",
+    "n": 3,
+    "grp": 3,
+    "id": "Saus Tiram"
+  },
+  {
+    "name": "Kecap Asin",
+    "n": 3,
+    "grp": 3,
+    "id": "Kecap Asin"
+  },
+  {
+    "name": "Tauco",
+    "n": 2,
+    "grp": 3,
+    "id": "Tauco"
+  },
+  {
+    "name": "Saus Sambal Botolan",
+    "n": 58,
+    "grp": 3,
+    "id": "Saus Sambal Botolan"
+  },
+  {
+    "name": "Kecap Manis",
+    "n": 69,
+    "grp": 3,
+    "id": "Kecap Manis"
+  },
+  {
+    "name": "Mayones",
+    "n": 2,
+    "grp": 3,
+    "id": "Mayones"
+  },
+  {
+    "name": "Daun Kemangi",
+    "n": 2,
+    "grp": 4,
+    "id": "Daun Kemangi"
+  },
+  {
+    "name": "Serai",
+    "n": 3,
+    "grp": 4,
+    "id": "Serai"
+  },
+  {
+    "name": "Daun Bawang",
+    "n": 3,
+    "grp": 4,
+    "id": "Daun Bawang"
+  },
+  {
+    "name": "Basil",
+    "n": 1,
+    "grp": 4,
+    "id": "Basil"
+  },
+  {
+    "name": "Kucai",
+    "n": 2,
+    "grp": 4,
+    "id": "Kucai"
+  },
+  {
+    "name": "Daun Mint",
+    "n": 1,
+    "grp": 4,
+    "id": "Daun Mint"
+  },
+  {
+    "name": "Daun Pandan",
+    "n": 1,
+    "grp": 4,
+    "id": "Daun Pandan"
+  },
+  {
+    "name": "Daun Kari",
+    "n": 1,
+    "grp": 4,
+    "id": "Daun Kari"
+  },
+  {
+    "name": "Peterseli",
+    "n": 2,
+    "grp": 4,
+    "id": "Peterseli"
+  },
+  {
+    "name": "Daun Jeruk",
+    "n": 2,
+    "grp": 4,
+    "id": "Daun Jeruk"
+  },
+  {
+    "name": "Daun Selada",
+    "n": 3,
+    "grp": 4,
+    "id": "Daun Selada"
+  },
+  {
+    "name": "Seledri",
+    "n": 3,
+    "grp": 4,
+    "id": "Seledri"
+  },
+  {
+    "name": "Daun Salam",
+    "n": 2,
+    "grp": 4,
+    "id": "Daun Salam"
+  },
+  {
+    "name": "Oregano",
+    "n": 2,
+    "grp": 4,
+    "id": "Oregano"
+  },
+  {
+    "name": "Kacang Merah",
+    "n": 1,
+    "grp": 5,
+    "id": "Kacang Merah"
+  },
+  {
+    "name": "Kacang Hijau",
+    "n": 1,
+    "grp": 5,
+    "id": "Kacang Hijau"
+  },
+  {
+    "name": "Melinjo",
+    "n": 1,
+    "grp": 5,
+    "id": "Melinjo"
+  },
+  {
+    "name": "Kacang Polong",
+    "n": 2,
+    "grp": 5,
+    "id": "Kacang Polong"
+  },
+  {
+    "name": "Kacang Mete",
+    "n": 1,
+    "grp": 5,
+    "id": "Kacang Mete"
+  },
+  {
+    "name": "Kacang Tanah",
+    "n": 2,
+    "grp": 5,
+    "id": "Kacang Tanah"
+  },
+  {
+    "name": "Krim Kental",
+    "n": 2,
+    "grp": 6,
+    "id": "Krim Kental"
+  },
+  {
+    "name": "Susu",
+    "n": 2,
+    "grp": 6,
+    "id": "Susu"
+  },
+  {
+    "name": "Daging Sapi",
+    "n": 2,
+    "grp": 7,
+    "id": "Daging Sapi"
+  },
+  {
+    "name": "Telur",
+    "n": 3,
+    "grp": 7,
+    "id": "Telur"
+  },
+  {
+    "name": "Keju",
+    "n": 2,
+    "grp": 7,
+    "id": "Keju"
+  },
+  {
+    "name": "Sapi",
+    "n": 3,
+    "grp": 7,
+    "id": "Sapi"
+  },
+  {
+    "name": "Daging Cincang",
+    "n": 1,
+    "grp": 7,
+    "id": "Daging Cincang"
+  },
+  {
+    "name": "Udang",
+    "n": 3,
+    "grp": 7,
+    "id": "Udang"
+  },
+  {
+    "name": "Ikan",
+    "n": 3,
+    "grp": 7,
+    "id": "Ikan"
+  },
+  {
+    "name": "Tahu",
+    "n": 3,
+    "grp": 7,
+    "id": "Tahu"
+  },
+  {
+    "name": "Ayam",
+    "n": 3,
+    "grp": 7,
+    "id": "Ayam"
+  },
+  {
+    "name": "Sosis",
+    "n": 2,
+    "grp": 7,
+    "id": "Sosis"
+  },
+  {
+    "name": "Tepung Terigu",
+    "n": 3,
+    "grp": 8,
+    "id": "Tepung Terigu"
+  },
+  {
+    "name": "Tepung Roti",
+    "n": 3,
+    "grp": 8,
+    "id": "Tepung Roti"
+  },
+  {
+    "name": "Tepung Kanji",
+    "n": 2,
+    "grp": 8,
+    "id": "Tepung Kanji"
+  },
+  {
+    "name": "Tepung Panir",
+    "n": 2,
+    "grp": 8,
+    "id": "Tepung Panir"
+  },
+  {
+    "name": "Tepung Maizena",
+    "n": 3,
+    "grp": 8,
+    "id": "Tepung Maizena"
+  },
+  {
+    "name": "Kentang",
+    "n": 3,
+    "grp": 9,
+    "id": "Kentang"
+  },
+  {
+    "name": "Nasi",
+    "n": 3,
+    "grp": 9,
+    "id": "Nasi"
+  },
+  {
+    "name": "Mentega",
+    "n": 3,
+    "grp": 10,
+    "id": "Mentega"
+  },
+  {
+    "name": "Margarin",
+    "n": 3,
+    "grp": 10,
+    "id": "Margarin"
+  },
+  {
+    "name": "Minyak",
+    "n": 3,
+    "grp": 10,
+    "id": "Minyak"
+  },
+  {
+    "name": "Cokelat",
+    "n": 1,
+    "grp": 11,
+    "id": "Cokelat"
+  }
+],
+"links": [
+  {
+    "source": "Royco",
+    "target": "Cengkeh",
+    "n": 1
+  },
+  {
+    "source": "Tahu",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Serai",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Nasi",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Cabe Merah",
+    "n": 1
+  },
+  {
+    "source": "Wortel",
+    "target": "Saus Sambal Botolan",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Lada",
+    "n": 1
+  },
+  {
+    "source": "Saus Tiram",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Brokoli",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Bawang Putih",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Cabe Rawit",
+    "n": 1
+  },
+  {
+    "source": "Sawi Putih",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Daun Jeruk",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kencur",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Sapi",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Kacang Tanah",
+    "n": 1
+  },
+  {
+    "source": "Tahu",
+    "target": "Saus Sambal Botolan",
+    "n": 1
+  },
+  {
+    "source": "Tepung Maizena",
+    "target": "Saus Sambal Botolan",
+    "n": 1
+  },
+  {
+    "source": "Terasi",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Daun Mint",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Peterseli",
+    "n": 1
+  },
+  {
+    "source": "Tauge",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Terasi",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Margarin",
+    "n": 1
+  },
+  {
+    "source": "Tepung Roti",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Tomat",
+    "target": "Saus Sambal Botolan",
+    "n": 1
+  },
+  {
+    "source": "Sawi Putih",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Mayones",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Bawang Goreng",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Lemon",
+    "n": 1
+  },
+  {
+    "source": "Tauco",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Seledri",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Udang",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Tomat",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Kacang Polong",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Cabe Rawit",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Krim Kental",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Oregano",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Caisim",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Jeruk Nipis",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Daun Kemangi",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kunyit",
+    "n": 1
+  },
+  {
+    "source": "Tomat",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Jeruk Nipis",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Bawang Goreng",
+    "n": 1
+  },
+  {
+    "source": "Ketumbar",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Gula",
+    "n": 1
+  },
+  {
+    "source": "Minyak",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Minyak",
+    "n": 1
+  },
+  {
+    "source": "Telur",
+    "target": "Saus Sambal Botolan",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Brokoli",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Nasi",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Cengkeh",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Daun Kari",
+    "n": 1
+  },
+  {
+    "source": "Kembang Kol",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kacang Panjang",
+    "n": 1
+  },
+  {
+    "source": "Merica",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Tepung Terigu",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Kol",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Paprika",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kembang Kol",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kucai",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Peterseli",
+    "n": 1
+  },
+  {
+    "source": "Udang",
+    "target": "Saus Sambal Botolan",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Daun Salam",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Daun Salam",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kentang",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Margarin",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kari",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Daging Sapi",
+    "n": 1
+  },
+  {
+    "source": "Tepung Maizena",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Ayam",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Gula Merah",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Gula Jawa",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Jahe",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Cabe Merah",
+    "n": 1
+  },
+  {
+    "source": "Telur",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Daun Jeruk",
+    "n": 1
+  },
+  {
+    "source": "Tepung Kanji",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Andaliman",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Bawang Putih",
+    "n": 1
+  },
+  {
+    "source": "Tepung Terigu",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Tauge",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Daun Kemangi",
+    "n": 1
+  },
+  {
+    "source": "Wortel",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Jamur",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Bawang Merah",
+    "n": 1
+  },
+  {
+    "source": "Saus Tiram",
+    "target": "Saus Sambal Botolan",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Bawang Bombai",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Garam",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Pala",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Jamur",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Kayu Manis",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Cabe",
+    "n": 1
+  },
+  {
+    "source": "Tepung Maizena",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Kacang Panjang",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Garam",
+    "n": 1
+  },
+  {
+    "source": "Telur",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Daun Bawang",
+    "n": 1
+  },
+  {
+    "source": "Seledri",
+    "target": "Saus Sambal Botolan",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Bayam",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Keju",
+    "n": 1
+  },
+  {
+    "source": "Serai",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Bawang Merah",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Daging Sapi",
+    "n": 1
+  },
+  {
+    "source": "Udang",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Tepung Panir",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kol",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Jintan",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Ayam",
+    "n": 1
+  },
+  {
+    "source": "Tepung Panir",
+    "target": "Saus Sambal Botolan",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Gula Jawa",
+    "n": 1
+  },
+  {
+    "source": "Mentega",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Sapi",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Daun Selada",
+    "n": 1
+  },
+  {
+    "source": "Kunyit",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Tepung Terigu",
+    "target": "Saus Sambal Botolan",
+    "n": 1
+  },
+  {
+    "source": "Nasi",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kacang Hijau",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Cabe",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Kari",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Ikan",
+    "n": 1
+  },
+  {
+    "source": "Sosis",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Serai",
+    "target": "Saus Sambal Botolan",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Paprika",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Gula",
+    "n": 1
+  },
+  {
+    "source": "Kemiri",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Merica",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kayu Manis",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Minyak",
+    "n": 1
+  },
+  {
+    "source": "Susu",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Tepung Roti",
+    "target": "Saus Sambal Botolan",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Bawang Goreng",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Mentega",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Lemon",
+    "n": 1
+  },
+  {
+    "source": "Tauco",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Jahe",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Keju",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Jamur",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Buncis",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Kecap Asin",
+    "n": 1
+  },
+  {
+    "source": "Saus Tiram",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Basil",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Melinjo",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Krim Kental",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Jeruk Nipis",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kemiri",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kacang Polong",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kacang Merah",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Lengkuas",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Bawang Merah",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Kentang",
+    "n": 1
+  },
+  {
+    "source": "Wortel",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Kucai",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Kacang Mete",
+    "n": 1
+  },
+  {
+    "source": "Lada",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Margarin",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Ikan",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Garam",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Bawang Putih",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Ketumbar",
+    "n": 1
+  },
+  {
+    "source": "Paprika",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Cabe",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Buncis",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Kari",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Jintan",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Bawang Bombai",
+    "n": 1
+  },
+  {
+    "source": "Lemon",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Cabe Merah",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Ayam",
+    "n": 1
+  },
+  {
+    "source": "Seledri",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Sosis",
+    "target": "Saus Sambal Botolan",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Mayones",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Daun Selada",
+    "n": 1
+  },
+  {
+    "source": "Terong",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Lengkuas",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Ikan",
+    "n": 1
+  },
+  {
+    "source": "Tauge",
+    "target": "Saus Sambal Botolan",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Oregano",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Daun Bawang",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Gula",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Kecap Asin",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Cabe Rawit",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Lada",
+    "n": 1
+  },
+  {
+    "source": "Susu",
+    "target": "Saus Sambal Botolan",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Cokelat",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Ketumbar",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Gula Merah",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Jahe",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Mentega",
+    "n": 1
+  },
+  {
+    "source": "Sapi",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Daging Cincang",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Daun Pandan",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Merica",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Royco",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kecap Asin",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Pala",
+    "n": 1
+  },
+  {
+    "source": "Tepung Kanji",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Daun Selada",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Kacang Tanah",
+    "n": 1
+  },
+  {
+    "source": "Pala",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Kentang",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Kemiri",
+    "n": 1
+  },
+  {
+    "source": "Kecap Manis",
+    "target": "Bawang Bombai",
+    "n": 1
+  },
+  {
+    "source": "Tahu",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Royco",
+    "target": "Pakcoy",
+    "n": 1
+  },
+  {
+    "source": "Tepung Roti",
+    "target": "Kecap Manis",
+    "n": 1
+  },
+  {
+    "source": "Saus Sambal Botolan",
+    "target": "Daun Bawang",
+    "n": 1
+  }
+], "attributes":{}}
