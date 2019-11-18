@@ -1,4 +1,22 @@
-{"nodes":[
+{"nodes": [
+  {
+    "name": "Saus Sambal Botolan",
+    "n": 58,
+    "grp": 1,
+    "id": "Saus Sambal Botolan"
+  },
+  {
+    "name": "Kecap Manis",
+    "n": 69,
+    "grp": 1,
+    "id": "Kecap Manis"
+  },
+  {
+    "name": "Royco",
+    "n": 92,
+    "grp": 1,
+    "id": "Royco"
+  },
   {
     "name": "Caisim",
     "n": 1,
@@ -22,78 +40,6 @@
     "n": 1,
     "grp": 2,
     "id": "Pakcoy"
-  },
-  {
-    "name": "Kencur",
-    "n": 1,
-    "grp": 3,
-    "id": "Kencur"
-  },
-  {
-    "name": "Andaliman",
-    "n": 1,
-    "grp": 3,
-    "id": "Andaliman"
-  },
-  {
-    "name": "Basil",
-    "n": 1,
-    "grp": 5,
-    "id": "Basil"
-  },
-  {
-    "name": "Daun Mint",
-    "n": 1,
-    "grp": 5,
-    "id": "Daun Mint"
-  },
-  {
-    "name": "Daun Pandan",
-    "n": 1,
-    "grp": 5,
-    "id": "Daun Pandan"
-  },
-  {
-    "name": "Daun Kari",
-    "n": 1,
-    "grp": 5,
-    "id": "Daun Kari"
-  },
-  {
-    "name": "Kacang Merah",
-    "n": 1,
-    "grp": 6,
-    "id": "Kacang Merah"
-  },
-  {
-    "name": "Kacang Hijau",
-    "n": 1,
-    "grp": 6,
-    "id": "Kacang Hijau"
-  },
-  {
-    "name": "Melinjo",
-    "n": 1,
-    "grp": 6,
-    "id": "Melinjo"
-  },
-  {
-    "name": "Kacang Mete",
-    "n": 1,
-    "grp": 6,
-    "id": "Kacang Mete"
-  },
-  {
-    "name": "Daging Cincang",
-    "n": 1,
-    "grp": 8,
-    "id": "Daging Cincang"
-  },
-  {
-    "name": "Cokelat",
-    "n": 1,
-    "grp": 12,
-    "id": "Cokelat"
   },
   {
     "name": "Kacang Panjang",
@@ -130,6 +76,42 @@
     "n": 2,
     "grp": 2,
     "id": "Kol"
+  },
+  {
+    "name": "Tomat",
+    "n": 3,
+    "grp": 2,
+    "id": "Tomat"
+  },
+  {
+    "name": "Jamur",
+    "n": 3,
+    "grp": 2,
+    "id": "Jamur"
+  },
+  {
+    "name": "Wortel",
+    "n": 3,
+    "grp": 2,
+    "id": "Wortel"
+  },
+  {
+    "name": "Tauge",
+    "n": 3,
+    "grp": 2,
+    "id": "Tauge"
+  },
+  {
+    "name": "Kencur",
+    "n": 1,
+    "grp": 3,
+    "id": "Kencur"
+  },
+  {
+    "name": "Andaliman",
+    "n": 1,
+    "grp": 3,
+    "id": "Andaliman"
   },
   {
     "name": "Kayu Manis",
@@ -178,132 +160,6 @@
     "n": 2,
     "grp": 3,
     "id": "Gula Merah"
-  },
-  {
-    "name": "Tauco",
-    "n": 2,
-    "grp": 4,
-    "id": "Tauco"
-  },
-  {
-    "name": "Mayones",
-    "n": 2,
-    "grp": 4,
-    "id": "Mayones"
-  },
-  {
-    "name": "Daun Kemangi",
-    "n": 2,
-    "grp": 5,
-    "id": "Daun Kemangi"
-  },
-  {
-    "name": "Kucai",
-    "n": 2,
-    "grp": 5,
-    "id": "Kucai"
-  },
-  {
-    "name": "Peterseli",
-    "n": 2,
-    "grp": 5,
-    "id": "Peterseli"
-  },
-  {
-    "name": "Daun Jeruk",
-    "n": 2,
-    "grp": 5,
-    "id": "Daun Jeruk"
-  },
-  {
-    "name": "Daun Salam",
-    "n": 2,
-    "grp": 5,
-    "id": "Daun Salam"
-  },
-  {
-    "name": "Oregano",
-    "n": 2,
-    "grp": 5,
-    "id": "Oregano"
-  },
-  {
-    "name": "Kacang Polong",
-    "n": 2,
-    "grp": 6,
-    "id": "Kacang Polong"
-  },
-  {
-    "name": "Kacang Tanah",
-    "n": 2,
-    "grp": 6,
-    "id": "Kacang Tanah"
-  },
-  {
-    "name": "Krim Kental",
-    "n": 2,
-    "grp": 7,
-    "id": "Krim Kental"
-  },
-  {
-    "name": "Susu",
-    "n": 2,
-    "grp": 7,
-    "id": "Susu"
-  },
-  {
-    "name": "Daging Sapi",
-    "n": 2,
-    "grp": 8,
-    "id": "Daging Sapi"
-  },
-  {
-    "name": "Keju",
-    "n": 2,
-    "grp": 8,
-    "id": "Keju"
-  },
-  {
-    "name": "Sosis",
-    "n": 2,
-    "grp": 8,
-    "id": "Sosis"
-  },
-  {
-    "name": "Tepung Kanji",
-    "n": 2,
-    "grp": 9,
-    "id": "Tepung Kanji"
-  },
-  {
-    "name": "Tepung Panir",
-    "n": 2,
-    "grp": 9,
-    "id": "Tepung Panir"
-  },
-  {
-    "name": "Tomat",
-    "n": 3,
-    "grp": 2,
-    "id": "Tomat"
-  },
-  {
-    "name": "Jamur",
-    "n": 3,
-    "grp": 2,
-    "id": "Jamur"
-  },
-  {
-    "name": "Wortel",
-    "n": 3,
-    "grp": 2,
-    "id": "Wortel"
-  },
-  {
-    "name": "Tauge",
-    "n": 3,
-    "grp": 2,
-    "id": "Tauge"
   },
   {
     "name": "Paprika",
@@ -420,6 +276,18 @@
     "id": "Kari"
   },
   {
+    "name": "Tauco",
+    "n": 2,
+    "grp": 4,
+    "id": "Tauco"
+  },
+  {
+    "name": "Mayones",
+    "n": 2,
+    "grp": 4,
+    "id": "Mayones"
+  },
+  {
     "name": "Saus Tiram",
     "n": 3,
     "grp": 4,
@@ -430,6 +298,66 @@
     "n": 3,
     "grp": 4,
     "id": "Kecap Asin"
+  },
+  {
+    "name": "Basil",
+    "n": 1,
+    "grp": 5,
+    "id": "Basil"
+  },
+  {
+    "name": "Daun Mint",
+    "n": 1,
+    "grp": 5,
+    "id": "Daun Mint"
+  },
+  {
+    "name": "Daun Pandan",
+    "n": 1,
+    "grp": 5,
+    "id": "Daun Pandan"
+  },
+  {
+    "name": "Daun Kari",
+    "n": 1,
+    "grp": 5,
+    "id": "Daun Kari"
+  },
+  {
+    "name": "Daun Kemangi",
+    "n": 2,
+    "grp": 5,
+    "id": "Daun Kemangi"
+  },
+  {
+    "name": "Kucai",
+    "n": 2,
+    "grp": 5,
+    "id": "Kucai"
+  },
+  {
+    "name": "Peterseli",
+    "n": 2,
+    "grp": 5,
+    "id": "Peterseli"
+  },
+  {
+    "name": "Daun Jeruk",
+    "n": 2,
+    "grp": 5,
+    "id": "Daun Jeruk"
+  },
+  {
+    "name": "Daun Salam",
+    "n": 2,
+    "grp": 5,
+    "id": "Daun Salam"
+  },
+  {
+    "name": "Oregano",
+    "n": 2,
+    "grp": 5,
+    "id": "Oregano"
   },
   {
     "name": "Serai",
@@ -454,6 +382,78 @@
     "n": 3,
     "grp": 5,
     "id": "Seledri"
+  },
+  {
+    "name": "Kacang Merah",
+    "n": 1,
+    "grp": 6,
+    "id": "Kacang Merah"
+  },
+  {
+    "name": "Kacang Hijau",
+    "n": 1,
+    "grp": 6,
+    "id": "Kacang Hijau"
+  },
+  {
+    "name": "Melinjo",
+    "n": 1,
+    "grp": 6,
+    "id": "Melinjo"
+  },
+  {
+    "name": "Kacang Mete",
+    "n": 1,
+    "grp": 6,
+    "id": "Kacang Mete"
+  },
+  {
+    "name": "Kacang Polong",
+    "n": 2,
+    "grp": 6,
+    "id": "Kacang Polong"
+  },
+  {
+    "name": "Kacang Tanah",
+    "n": 2,
+    "grp": 6,
+    "id": "Kacang Tanah"
+  },
+  {
+    "name": "Krim Kental",
+    "n": 2,
+    "grp": 7,
+    "id": "Krim Kental"
+  },
+  {
+    "name": "Susu",
+    "n": 2,
+    "grp": 7,
+    "id": "Susu"
+  },
+  {
+    "name": "Daging Cincang",
+    "n": 1,
+    "grp": 8,
+    "id": "Daging Cincang"
+  },
+  {
+    "name": "Daging Sapi",
+    "n": 2,
+    "grp": 8,
+    "id": "Daging Sapi"
+  },
+  {
+    "name": "Keju",
+    "n": 2,
+    "grp": 8,
+    "id": "Keju"
+  },
+  {
+    "name": "Sosis",
+    "n": 2,
+    "grp": 8,
+    "id": "Sosis"
   },
   {
     "name": "Telur",
@@ -490,6 +490,18 @@
     "n": 3,
     "grp": 8,
     "id": "Ayam"
+  },
+  {
+    "name": "Tepung Kanji",
+    "n": 2,
+    "grp": 9,
+    "id": "Tepung Kanji"
+  },
+  {
+    "name": "Tepung Panir",
+    "n": 2,
+    "grp": 9,
+    "id": "Tepung Panir"
   },
   {
     "name": "Tepung Terigu",
@@ -540,22 +552,10 @@
     "id": "Minyak"
   },
   {
-    "name": "Saus Sambal Botolan",
-    "n": 58,
-    "grp": 1,
-    "id": "Saus Sambal Botolan"
-  },
-  {
-    "name": "Kecap Manis",
-    "n": 69,
-    "grp": 1,
-    "id": "Kecap Manis"
-  },
-  {
-    "name": "Royco",
-    "n": 92,
-    "grp": 1,
-    "id": "Royco"
+    "name": "Cokelat",
+    "n": 1,
+    "grp": 12,
+    "id": "Cokelat"
   }
 ],
 "links": [
@@ -1624,4 +1624,4 @@
     "target": "Daun Bawang",
     "n": 1
   }
-], "attributes":{} }
+], "attributes": {}}
